@@ -80,7 +80,7 @@ sources:
 -   [OECD Stats](https://stats.oecd.org/)
 -   [Socioeconomic Data and Applications Center
     (NASA)](https://sedac.ciesin.columbia.edu/)
--   [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
+-   [MakeoverMonday](https://www.makeovermonday.co.uk/)
 -   [TidyTuesday](https://github.com/rfordatascience/tidytuesday/tree/master/data/2021)
     (search through old datasets
     [here](https://github.com/rfordatascience/tidytuesday/tree/master/data/2018),
@@ -124,8 +124,6 @@ types in. Here is a non-exhaustive list:
     -   [D3js code collection](https://www.d3-graph-gallery.com/)
 -   [DataVizProject](https://datavizproject.com/) by ferdio ---
     interactive with lots of examples
--   [Visualization Universe](http://visualizationuniverse.com/) by
-    Adioma and Google News Lab
 -   [How to Choose the Right Chart
     Type](https://activewizards.com/blog/how-to-choose-the-right-chart-type-infographic/)
     --- another, very compact, decision tree to help you
